@@ -13,6 +13,7 @@ AWS Account
 * train.py and predict.py are there in the train and serve folders respectively<br>
 * Screenshots of the movie review done by me is in the screenshots folder
 * Both pynb and html version has been uploaded
+* index.html is also uploaded in webiste folder
 
 
 ## License
